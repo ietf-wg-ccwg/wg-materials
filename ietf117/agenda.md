@@ -19,6 +19,10 @@
 * Blue sheets / scribe selection / [NOTE WELL](https://www.ietf.org/about/note-well.html) 
 * Agenda revision
 
-## Individual Drafts (X minutes)
+## Topics (X minutes)
 
-- [Name](https://datatracker.ietf.org/doc/url) - _Presenter_, X minutes
+- [Chair Slides](https://datatracker.ietf.org/) - _Chairs_, 15 minutes
+
+- [5033bis](https://datatracker.ietf.org/) - 15 minutes
+
+- [HPCC++: Enhanced High Precision Congestion Control](https://datatracker.ietf.org/doc/draft-an-ccwg-hpcc-00) - _Qing An_, 15 minutes
