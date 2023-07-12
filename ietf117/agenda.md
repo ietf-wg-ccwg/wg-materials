@@ -2,8 +2,8 @@
 
 ## Time and Date
 
-* TBD ([See this time in your local timezone]())
-* Location: TBD
+* Tuesday, July 25, 2023, 15:00 - 16:30 (GMT -7) ([See this time in your local timezone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CCWG+at+IETF+117&iso=20230725T15&p1=224&ah=1&am=30))
+* Location: Plaza B
 * [IETF Agenda Link](https://datatracker.ietf.org/meeting/117/agenda/?show=ccwg)
 
 ## Links
@@ -19,10 +19,16 @@
 * Blue sheets / scribe selection / [NOTE WELL](https://www.ietf.org/about/note-well.html) 
 * Agenda revision
 
-## Topics (X minutes)
+## Topics (70 minutes)
 
 - [Chair Slides](https://datatracker.ietf.org/) - _Chairs_, 15 minutes
 
 - [5033bis](https://datatracker.ietf.org/) - 15 minutes
 
-- [HPCC++: Enhanced High Precision Congestion Control](https://datatracker.ietf.org/doc/draft-an-ccwg-hpcc-00) - _Qing An_, 15 minutes
+- [Analysis for the Differences Between Standard Congestion Control Schemes](https://datatracker.ietf.org/doc/draft-nishida-ccwg-standard-cc-analysis/) - _Yoshifumi Nishida_, 15 minutes
+
+- [Guidelines for Internet Congestion Control at Endpoints](https://datatracker.ietf.org/doc/draft-fairhurst-ccwg-cc/) - _Gorry Fairhurst_, 15 minutes
+
+- [Datagram Congestion Control Protocol (DCCP) Congestion Control](https://datatracker.ietf.org/doc/draft-romo-iccrg-ccid5/) - _Nathalie Romo Moreno_, 10 minutes
+
+## Open Mic
