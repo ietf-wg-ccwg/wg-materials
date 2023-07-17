@@ -19,7 +19,7 @@
 * Blue sheets / scribe selection / [NOTE WELL](https://www.ietf.org/about/note-well.html) 
 * Agenda revision
 
-## Topics (70 minutes)
+## Topics (85 minutes)
 
 - [Chair Slides](https://datatracker.ietf.org/) - _Chairs_, 15 minutes
 
@@ -31,4 +31,4 @@
 
 - [Datagram Congestion Control Protocol (DCCP) Congestion Control](https://datatracker.ietf.org/doc/draft-romo-iccrg-ccid5/) - _Nathalie Romo Moreno_, 10 minutes
 
-## Open Mic
+- [HPCC++: Enhanced High Precision Congestion Control](https://datatracker.ietf.org/doc/draft-miao-ccwg-hpcc/) and [Inband Telemetry for HPCC++](https://datatracker.ietf.org/doc/draft-miao-ccwg-hpcc-info/) - _Jeff Tantsura_, 15 minutes
