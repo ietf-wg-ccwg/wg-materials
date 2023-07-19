@@ -3,7 +3,7 @@
 ## Time and Date
 
 * Tuesday, July 25, 2023, 15:00 - 16:30 (GMT -7) ([See this time in your local timezone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CCWG+at+IETF+117&iso=20230725T15&p1=224&ah=1&am=30))
-* Location: Plaza B
+* Location: [Plaza B](https://datatracker.ietf.org/meeting/117/floor-plan?room=plaza-b)
 * [IETF Agenda Link](https://datatracker.ietf.org/meeting/117/agenda/?show=ccwg)
 
 ## Links
