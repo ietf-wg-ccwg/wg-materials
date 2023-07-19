@@ -21,7 +21,7 @@
 
 ## Topics (85 minutes)
 
-- [Chair Slides](https://datatracker.ietf.org/) - _Chairs_, 15 minutes
+- [Chair Slides](https://datatracker.ietf.org/meeting/117/materials/slides-117-ccwg-chair-slides) - _Chairs_, 15 minutes
 
 - [5033bis](https://datatracker.ietf.org/) - 15 minutes
 
