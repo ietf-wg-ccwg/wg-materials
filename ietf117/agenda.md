@@ -14,12 +14,12 @@
 * [Notes](https://notes.ietf.org/notes-ietf-117-ccwg) 
 * [Minutes](https://datatracker.ietf.org/doc/minutes-117-ccwg/)
 
-## Administrivia (5 minutes)
+## Administrivia
 
 * Blue sheets / scribe selection / [NOTE WELL](https://www.ietf.org/about/note-well.html) 
 * Agenda revision
 
-## Topics (85 minutes)
+## Topics
 
 - [Chair Slides](https://datatracker.ietf.org/meeting/117/materials/slides-117-ccwg-chair-slides) - _Chairs_, 10 minutes
 
