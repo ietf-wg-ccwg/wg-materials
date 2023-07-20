@@ -21,13 +21,15 @@
 
 ## Topics (85 minutes)
 
-- [Chair Slides](https://datatracker.ietf.org/meeting/117/materials/slides-117-ccwg-chair-slides) - _Chairs_, 15 minutes
+- [Chair Slides](https://datatracker.ietf.org/meeting/117/materials/slides-117-ccwg-chair-slides) - _Chairs_, 10 minutes
 
-- [5033bis](https://datatracker.ietf.org/) - 15 minutes
+- [5033bis](https://datatracker.ietf.org/) - 10 minutes
 
-- [Analysis for the Differences Between Standard Congestion Control Schemes](https://datatracker.ietf.org/doc/draft-nishida-ccwg-standard-cc-analysis/) - _Yoshifumi Nishida_, 15 minutes
+- [Analysis for the Differences Between Standard Congestion Control Schemes](https://datatracker.ietf.org/doc/draft-nishida-ccwg-standard-cc-analysis/) - _Yoshifumi Nishida_, 10 minutes
 
 - [Guidelines for Internet Congestion Control at Endpoints](https://datatracker.ietf.org/doc/draft-fairhurst-ccwg-cc/) - _Gorry Fairhurst_, 15 minutes
+
+- [BBR](https://datatracker.ietf.org./doc/draft-cardwell-iccrg-bbr-congestion-control/) - _Neal Cardwell_, 20 minutes
 
 - [Datagram Congestion Control Protocol (DCCP) Congestion Control](https://datatracker.ietf.org/doc/draft-romo-iccrg-ccid5/) - _Nathalie Romo Moreno_, 10 minutes
 
