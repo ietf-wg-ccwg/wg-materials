@@ -29,7 +29,7 @@
 
 - [Guidelines for Internet Congestion Control at Endpoints](https://datatracker.ietf.org/doc/draft-fairhurst-ccwg-cc/) - _Gorry Fairhurst_, 15 minutes
 
-- [BBR](https://datatracker.ietf.org./doc/draft-cardwell-iccrg-bbr-congestion-control/) - _Neal Cardwell_, 20 minutes
+- [BBR](https://datatracker.ietf.org/doc/draft-cardwell-iccrg-bbr-congestion-control/) - _Neal Cardwell_, 20 minutes
 
 - [Datagram Congestion Control Protocol (DCCP) Congestion Control](https://datatracker.ietf.org/doc/draft-romo-iccrg-ccid5/) - _Nathalie Romo Moreno_, 10 minutes
 
