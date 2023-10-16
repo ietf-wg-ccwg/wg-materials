@@ -2,8 +2,8 @@
 
 ## Time and Date
 
-* Time TBD ([See this time in your local timezone](https://www.timeanddate.com/worldclock/))
-* Location: TBD
+* Tuesday November 7, 09:30 - 11:30 GMT+2 ([See this time in your local timezone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CCWG+at+IETF+118&iso=20231107T0930&p1=204&ah=2))
+* Location: [Congress Hall 2](https://datatracker.ietf.org/meeting/118/floor-plan?room=congress-hall-2)
 * [IETF Agenda Link](https://datatracker.ietf.org/meeting/118/agenda/?show=ccwg)
 
 ## Links
@@ -23,4 +23,4 @@
 
 - [Chair Slides]((https://datatracker.ietf.org/doc/url)) - _Chairs_
 
-- [5033bis](https://datatracker.ietf.org/doc/draft-ietf-ccwg-rfc5033bis/)
+- [5033bis](https://datatracker.ietf.org/doc/draft-ietf-ccwg-rfc5033bis/) - _Martin Duke_
