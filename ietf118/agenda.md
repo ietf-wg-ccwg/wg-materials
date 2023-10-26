@@ -21,6 +21,12 @@
 
 ## Topics
 
-- [Chair Slides]((https://datatracker.ietf.org/doc/url)) - _Chairs_
+- [Chair Slides]((https://datatracker.ietf.org/doc/url)) - _Chairs_, onsite, 10 minutes
 
-- [5033bis](https://datatracker.ietf.org/doc/draft-ietf-ccwg-rfc5033bis/) - _Martin Duke_
+- [5033bis](https://datatracker.ietf.org/doc/draft-ietf-ccwg-rfc5033bis/) - _Martin Duke_, onsite, 60 minutes
+
+- [Safe Congestion Control](https://datatracker.ietf.org/doc/html/draft-mathis-ccwg-safecc) - _Matt Mathis_, remote, 20 minutes
+
+- [Analysis for the Differences Between Standard Congestion Control Schemes](https://datatracker.ietf.org/doc/draft-nishida-ccwg-standard-cc-analysis/) - _Yoshifumi Nishida_, remote, 10 minutes
+
+- Open mic, 20 minutes
