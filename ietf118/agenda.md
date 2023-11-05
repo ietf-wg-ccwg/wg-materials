@@ -29,4 +29,4 @@
 
 - [Analysis for the Differences Between Standard Congestion Control Schemes](https://datatracker.ietf.org/doc/draft-nishida-ccwg-standard-cc-analysis/) - _Yoshifumi Nishida_, remote, 10 minutes
 
-- [Containing the Cambrian Explosion in QUIC Congestion Control](https://conferences.sigcomm.org/imc/2023/program/#16) - _Ayush Mishra_, remote, 20 minutes (as time permits)
+- [Containing the Cambrian Explosion in QUIC Congestion Control](https://dl.acm.org/doi/pdf/10.1145/3618257.3624811) - _Ayush Mishra_, remote, 20 minutes (as time permits)
