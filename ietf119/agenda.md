@@ -23,6 +23,8 @@
 
 - [Chair Slides]((https://datatracker.ietf.org/doc/url)) - _Chairs_, onsite, 10 minutes
 
-- [5033bis](https://datatracker.ietf.org/doc/draft-ietf-ccwg-rfc5033bis/) - TBD
+- [5033bis](https://datatracker.ietf.org/doc/draft-ietf-ccwg-rfc5033bis/) - _Martin Duke_, onsite, 15 minutes
 
-- Increase of the Congestion Window when the Sender Is Rate-Limited ([draft-welzl-ccwg-ratelimited-increase](https://datatracker.ietf.org/doc/draft-welzl-ccwg-ratelimited-increase/)) - _Gorry Fairhurst_, remote, TBD
+- Increase of the Congestion Window when the Sender Is Rate-Limited ([draft-welzl-ccwg-ratelimited-increase](https://datatracker.ietf.org/doc/draft-welzl-ccwg-ratelimited-increase/)) - _Gorry Fairhurst_, remote, 15 minutes
+
+- [Updated SCReAM congestion control (RFC 8298bis, draft-johansson-ccwg-scream-bis)](https://github.com/IngJohEricsson/draft-johansson-ccwg-scream-bis) - _Ingemar Johansson_, remote, 20 minutes
