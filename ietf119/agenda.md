@@ -28,3 +28,7 @@
 - Increase of the Congestion Window when the Sender Is Rate-Limited ([draft-welzl-ccwg-ratelimited-increase](https://datatracker.ietf.org/doc/draft-welzl-ccwg-ratelimited-increase/)) - _Gorry Fairhurst_, remote, 15 minutes
 
 - [Updated SCReAM congestion control (RFC 8298bis, draft-johansson-ccwg-scream-bis)](https://github.com/IngJohEricsson/draft-johansson-ccwg-scream-bis) - _Ingemar Johansson_, remote, 20 minutes
+
+- HPCC++ ([draft-miao-ccwg-hpcc](https://datatracker.ietf.org/doc/draft-miao-ccwg-hpcc/), [draft-miao-ccwg-hpcc-info](https://datatracker.ietf.org/doc/draft-miao-ccwg-hpcc-info/)) - _TBD_, 20 minutes
+
+- Next steps for CCWG - _Chairs_, onsite, 40 minutes
