@@ -31,4 +31,6 @@
 
 - HPCC++ ([draft-miao-ccwg-hpcc](https://datatracker.ietf.org/doc/draft-miao-ccwg-hpcc/), [draft-miao-ccwg-hpcc-info](https://datatracker.ietf.org/doc/draft-miao-ccwg-hpcc-info/)) - _Rui Miao_, 20 minutes
 
-- Next steps for CCWG - _Chairs_, onsite, 40 minutes
+- BBRv3 Update and Deployment Status - _Neal Cardwell_, remote, 10 minutes
+
+- Next steps for CCWG - _Chairs_, onsite, 30 minutes
