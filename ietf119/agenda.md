@@ -16,21 +16,21 @@
 
 ## Administrivia
 
-* Blue sheets / scribe selection / [NOTE WELL](https://www.ietf.org/about/note-well.html) 
+* Blue sheets / scribe selection / [NOTE WELL](https://www.ietf.org/about/note-well.html) / [Code of Conduct](https://www.rfc-editor.org/rfc/rfc7154.html)
 * Agenda revision
 
 ## Topics
 
-- [Chair Slides]((https://datatracker.ietf.org/doc/url)) - _Chairs_, onsite, 10 minutes
+- [Chair Slides](https://datatracker.ietf.org/meeting/119/materials/slides-119-ccwg-chair-slides) - _Chairs_, onsite, 10 minutes
 
-- [5033bis](https://datatracker.ietf.org/doc/draft-ietf-ccwg-rfc5033bis/) - _Martin Duke_, onsite, 15 minutes
+- **5033bis**: Specifying New Congestion Control Algorithms - [draft-ietf-ccwg-rfc5033bis](https://datatracker.ietf.org/doc/draft-ietf-ccwg-rfc5033bis/), [slides](https://datatracker.ietf.org/meeting/119/materials/slides-119-ccwg-rfc5033bis-overview) - _Martin Duke_, onsite, 15 minutes
 
-- Increase of the Congestion Window when the Sender Is Rate-Limited ([draft-welzl-ccwg-ratelimited-increase](https://datatracker.ietf.org/doc/draft-welzl-ccwg-ratelimited-increase/)) - _Gorry Fairhurst_, remote, 15 minutes
+- **Increase of the Congestion Window when the Sender Is Rate-Limited** - [draft-welzl-ccwg-ratelimited-increase](https://datatracker.ietf.org/doc/draft-welzl-ccwg-ratelimited-increase/), [slides](https://datatracker.ietf.org/meeting/119/materials/slides-119-ccwg-slides-for-draft-welzl-ccwg-ratelimited-increase) - _Gorry Fairhurst_, remote, 15 minutes
 
-- [Updated SCReAM congestion control (RFC 8298bis, draft-johansson-ccwg-rfc8298bis-screamv2)](https://datatracker.ietf.org/doc/draft-johansson-ccwg-rfc8298bis-screamv2/) - _Ingemar Johansson_, remote, 20 minutes
+- **8298bis: Updated SCReAM congestion control** - [draft-johansson-ccwg-rfc8298bis-screamv2](https://datatracker.ietf.org/doc/draft-johansson-ccwg-rfc8298bis-screamv2/), [slides](https://datatracker.ietf.org/meeting/119/materials/slides-119-ccwg-screamv2) - _Ingemar Johansson_, remote, 20 minutes
 
-- HPCC++ ([draft-miao-ccwg-hpcc](https://datatracker.ietf.org/doc/draft-miao-ccwg-hpcc/), [draft-miao-ccwg-hpcc-info](https://datatracker.ietf.org/doc/draft-miao-ccwg-hpcc-info/)) - _Rui Miao_, 20 minutes
+- **HPCC++** - [draft-miao-ccwg-hpcc](https://datatracker.ietf.org/doc/draft-miao-ccwg-hpcc/), [draft-miao-ccwg-hpcc-info](https://datatracker.ietf.org/doc/draft-miao-ccwg-hpcc-info/), [slides](https://datatracker.ietf.org/meeting/119/materials/slides-119-ccwg-hpcc) - _Rui Miao_, 20 minutes
 
-- BBRv3 Update and Deployment Status - _Neal Cardwell_, remote, 10 minutes
+- **BBRv3 Update and Deployment Status** - [slides](https://datatracker.ietf.org/meeting/119/materials/slides-119-ccwg-bbrv3-overview-and-google-deployment) - _Neal Cardwell_, remote, 10 minutes
 
-- Next steps for CCWG - _Chairs_, onsite, 30 minutes
+- **Next steps for CCWG** - [slides](https://datatracker.ietf.org/meeting/119/materials/slides-119-ccwg-next-steps) - _Chairs_, onsite, 30 minutes
