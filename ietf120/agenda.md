@@ -25,4 +25,6 @@
 
 - **Increase of the Congestion Window when the Sender Is Rate-Limited** - [draft-welzl-ccwg-ratelimited-increase](https://datatracker.ietf.org/doc/draft-welzl-ccwg-ratelimited-increase/)
 
+- **SEARCH -- a New Slow Start Algorithm for TCP and QUIC** [draft-chung-ccwg-search](https://datatracker.ietf.org/doc/draft-chung-ccwg-search/)
+
 - Rechartering - _Chairs_, onsite, 30 minutes
