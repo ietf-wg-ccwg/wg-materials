@@ -21,7 +21,7 @@
 
 ## Topics
 
-- Chair slides - _Chairs_, onsite, 10 minutes
+- Chair slides, _Chairs_, onsite, 10 minutes
 
 - **Increase of the Congestion Window when the Sender Is Rate-Limited** - [draft-welzl-ccwg-ratelimited-increase](https://datatracker.ietf.org/doc/draft-welzl-ccwg-ratelimited-increase/), Michael Welzl, 15 minutes
 
@@ -33,4 +33,8 @@
 
 - **SEARCH -- a New Slow Start Algorithm for TCP and QUIC** [draft-chung-ccwg-search](https://datatracker.ietf.org/doc/draft-chung-ccwg-search/), Feng Li, 15 minutes
 
-- Rechartering - _Chairs_, onsite, 30 minutes
+- **Rechartering**, _Chairs_, onsite, 30 minutes
+
+### As Time Permits
+
+- **Loss Recovery While Application-Limited**, Matt Mathis, 10 minutes
