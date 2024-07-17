@@ -23,15 +23,15 @@
 
 - Chair slides, _Chairs_, onsite, 10 minutes
 
-- **Increase of the Congestion Window when the Sender Is Rate-Limited** - [draft-welzl-ccwg-ratelimited-increase](https://datatracker.ietf.org/doc/draft-welzl-ccwg-ratelimited-increase/), Michael Welzl, 15 minutes
+- **Increase of the Congestion Window when the Sender is Rate-Limited** - [draft-welzl-ccwg-ratelimited-increase](https://datatracker.ietf.org/doc/draft-welzl-ccwg-ratelimited-increase/), Michael Welzl, 15 minutes
 
 - **BBRv3** - draft-cardwell-ccwg-bbr, Neal Cardwell, 20 minutes
 
-- **BBR Improvements for Real-time connections** - [draft-huitema-ccwg-bbr-realtime](https://datatracker.ietf.org/doc/draft-huitema-ccwg-bbr-realtime), Christian Huitema, 10 minutes
+- **BBR Improvements for Real-time Connections** - [draft-huitema-ccwg-bbr-realtime](https://datatracker.ietf.org/doc/draft-huitema-ccwg-bbr-realtime), Christian Huitema, 10 minutes
 
 - **HPCC++: Enhanced High Precision Congestion Control** - [draft-miao-ccwg-hpcc](https://datatracker.ietf.org/doc/draft-miao-ccwg-hpcc/) and [draft-miao-ccwg-hpcc-info](https://datatracker.ietf.org/doc/draft-miao-ccwg-hpcc-info/), Jeff Tantsura, 10 minutes
 
-- **SEARCH -- a New Slow Start Algorithm for TCP and QUIC** [draft-chung-ccwg-search](https://datatracker.ietf.org/doc/draft-chung-ccwg-search/), Feng Li, 15 minutes
+- **SEARCH: A New Slow Start Algorithm for TCP and QUIC** [draft-chung-ccwg-search](https://datatracker.ietf.org/doc/draft-chung-ccwg-search/), Feng Li, 15 minutes
 
 - **Rechartering**, _Chairs_, onsite, 30 minutes
 
