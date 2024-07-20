@@ -29,7 +29,7 @@
 
 - **BBR Improvements for Real-time Connections**, [draft-huitema-ccwg-bbr-realtime](https://datatracker.ietf.org/doc/draft-huitema-ccwg-bbr-realtime), _Christian Huitema_, 10 minutes
 
-- **HPCC++: Enhanced High Precision Congestion Control**, [draft-miao-ccwg-hpcc](https://datatracker.ietf.org/doc/draft-miao-ccwg-hpcc/) and [draft-miao-ccwg-hpcc-info](https://datatracker.ietf.org/doc/draft-miao-ccwg-hpcc-info/), _Jeff Tantsura_, 10 minutes
+- **HPCC++: Enhanced High Precision Congestion Control**, [draft-miao-ccwg-hpcc](https://datatracker.ietf.org/doc/draft-miao-ccwg-hpcc/) and [draft-miao-ccwg-hpcc-info](https://datatracker.ietf.org/doc/draft-miao-ccwg-hpcc-info/), _Rui Miao_, 10 minutes
 
 - **SEARCH: A New Slow Start Algorithm for TCP and QUIC**, [draft-chung-ccwg-search](https://datatracker.ietf.org/doc/draft-chung-ccwg-search/), _Feng Li_, 15 minutes
 
