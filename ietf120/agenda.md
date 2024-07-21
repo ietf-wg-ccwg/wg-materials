@@ -37,4 +37,4 @@
 
 ### As Time Permits
 
-- **Loss Recovery While Application-Limited**, _Matt Mathis_, 10 minutes
+- **CC Response While Application-Limited**, _Matt Mathis_, 10 minutes
