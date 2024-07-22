@@ -33,7 +33,9 @@
 
 - **SEARCH: A New Slow Start Algorithm for TCP and QUIC**, [draft-chung-ccwg-search](https://datatracker.ietf.org/doc/draft-chung-ccwg-search/), _Feng Li_, 15 minutes
 
-- **Rechartering**, _Chairs_, onsite, 30 minutes
+- **Prague Congestion Control**, [draft-briscoe-iccrg-prague-congestion-control/](https://datatracker.ietf.org/doc/draft-briscoe-iccrg-prague-congestion-control/), _Koen De Schepper_, 10 minutes
+
+- **Rechartering**, _Chairs_, onsite, 20 minutes
 
 ### As Time Permits
 
