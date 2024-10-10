@@ -25,6 +25,8 @@
 
 - **Rechartering**, _Chairs_, onsite, 20 minutes
 
-- **BBRv3**
+- **BBRv3**, [draft-cardwell-ccwg-bbr](https://datatracker.ietf.org/doc/draft-cardwell-ccwg-bbr/)
 
-- **SEARCH**, _Feng Li_, 20 minutes
+- **SEARCH**, [draft-chung-ccwg-search](https://datatracker.ietf.org/doc/draft-chung-ccwg-search/), _Feng Li_, 20 minutes
+
+- **Increase of the Congestion Window when the Sender is Rate-Limited**, [draft-welzl-ccwg-ratelimited-increase](https://datatracker.ietf.org/doc/draft-welzl-ccwg-ratelimited-increase/), Michael Welzl, 10 minutes
