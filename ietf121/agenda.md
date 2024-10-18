@@ -2,8 +2,8 @@
 
 ## Time and Date
 
-* Thursday November 7, 09:30 - 11:30 GMT ([See this time in your local timezone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CCWG+at+IETF+121&iso=20241107T0930&p1=78&ah=2))
-* Location: [The Auditorium](https://datatracker.ietf.org/meeting/121/floor-plan?room=the-auditorium)
+* Tuesday November 5, 09:30 - 11:30 GMT ([See this time in your local timezone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CCWG+at+IETF+121&iso=20241105T0930&p1=78&ah=2))
+* Location: [Liffey Hall 2](https://datatracker.ietf.org/meeting/121/floor-plan?room=liffey-hall-2)
 * [IETF Agenda Link](https://datatracker.ietf.org/meeting/121/agenda/?show=ccwg)
 
 ## Links
