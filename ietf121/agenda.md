@@ -23,10 +23,14 @@
 
 - Chair slides, _Chairs_, onsite, 10 minutes
 
-- **Rechartering**, _Chairs_, onsite, 20 minutes
-
 - **BBRv3**, [draft-cardwell-ccwg-bbr](https://datatracker.ietf.org/doc/draft-cardwell-ccwg-bbr/)
 
 - **SEARCH**, [draft-chung-ccwg-search](https://datatracker.ietf.org/doc/draft-chung-ccwg-search/), _Mark Claypool_, 20 minutes
 
-- **Increase of the Congestion Window when the Sender is Rate-Limited**, [draft-welzl-ccwg-ratelimited-increase](https://datatracker.ietf.org/doc/draft-welzl-ccwg-ratelimited-increase/), Michael Welzl, 10 minutes
+- **Increase of the Congestion Window when the Sender is Rate-Limited**, [draft-welzl-ccwg-ratelimited-increase](https://datatracker.ietf.org/doc/draft-welzl-ccwg-ratelimited-increase/), _Michael Welzl_, 10 minutes
+
+- **SCReAMv2**, [draft-johansson-ccwg-rfc8298bis-screamv2](https://datatracker.ietf.org/doc/draft-johansson-ccwg-rfc8298bis-screamv2/), _Ingemar Johansson_, 10 minutes
+
+- (If time permits) **CCA and Wi-Fi interop**, _Robert McMahon_, remote
+
+- (If time permits) **CCA testing using iperf 2**, _Robert McMahon_, remote
