@@ -21,7 +21,7 @@
 
 ## Topics
 
-- Chair slides, _Chairs_, onsite, 10 minutes
+- **Chair slides**, _Chairs_, onsite, 10 minutes
 
 - **Hackathon update**, _Chairs_, onsite, 5 minutes
 
