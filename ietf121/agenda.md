@@ -37,4 +37,4 @@
 
 - (If time permits) **CCA testing using iperf 2**, _Robert McMahon_, remote
 
-- (If time permits) **Congestion control in LEO satellite networks**, _Zeqi Lai_, onsite
+- (If time permits) **Congestion control in LEO satellite networks**, _Zeqi Lai_
