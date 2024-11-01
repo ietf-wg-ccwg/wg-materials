@@ -25,7 +25,7 @@
 
 - **Hackathon update**, _Chairs_, onsite, 5 minutes
 
-- **BBRv3**, [draft-cardwell-ccwg-bbr](https://datatracker.ietf.org/doc/draft-cardwell-ccwg-bbr/)
+- **BBRv3**, [draft-cardwell-ccwg-bbr](https://datatracker.ietf.org/doc/draft-cardwell-ccwg-bbr/), _Neal Cardwell_, 30 minutes
 
 - **SEARCH**, [draft-chung-ccwg-search](https://datatracker.ietf.org/doc/draft-chung-ccwg-search/), _Mark Claypool_, remote, 20 minutes
 
