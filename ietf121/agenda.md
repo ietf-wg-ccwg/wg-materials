@@ -25,7 +25,9 @@
 
 - **Hackathon update**, _Chairs_, onsite, 5 minutes
 
-- **BBRv3**, [draft-cardwell-ccwg-bbr](https://datatracker.ietf.org/doc/draft-cardwell-ccwg-bbr/), _Neal Cardwell_, 30 minutes
+### Documents
+
+- **BBRv3**, [draft-cardwell-ccwg-bbr](https://datatracker.ietf.org/doc/draft-cardwell-ccwg-bbr/), _Neal Cardwell_, remote, 30 minutes
 
 - **SEARCH**, [draft-chung-ccwg-search](https://datatracker.ietf.org/doc/draft-chung-ccwg-search/), _Mark Claypool_, remote, 20 minutes
 
@@ -33,8 +35,10 @@
 
 - **SCReAMv2**, [draft-johansson-ccwg-rfc8298bis-screamv2](https://datatracker.ietf.org/doc/draft-johansson-ccwg-rfc8298bis-screamv2/), _Ingemar Johansson_, remote, 10 minutes
 
-- (If time permits) **CCA and Wi-Fi interop**, _Robert McMahon_, remote
+### As Time Permits
 
-- (If time permits) **CCA testing using iperf 2**, _Robert McMahon_, remote
+- **CCA and Wi-Fi interop**, _Robert McMahon_, remote, 10 minutes
 
-- (If time permits) **Congestion control in LEO satellite networks**, _Zeqi Lai_
+- **Congestion control in LEO satellite networks**, _Zeqi Lai_, 10 minutes
+
+- **CCA testing using iperf 2**, _Robert McMahon_, remote, 10 minutes
