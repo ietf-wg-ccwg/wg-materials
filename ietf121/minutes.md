@@ -1,5 +1,6 @@
 # CCWG Working Group Agenda - IETF 121
-Chairs:Eric Kinnear, Reese Enghardt
+Chairs: Eric Kinnear, Reese Enghardt
+
 Notetaker: Gorry
 
 ## Hackathon Update from CCWG table
