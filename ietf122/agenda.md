@@ -26,7 +26,7 @@
 - **Hackathon update**, _Chairs_, onsite, 5 minutes
 
 ### Adopted Documents
-
+- **BBRv3**, [draft-ietf-ccwg-bbr](https://datatracker.ietf.org/doc/draft-ietf-ccwg-bbr/), _Neal Cardwell_, remote, 20 minutes
 
 ### Other Proposals
 
