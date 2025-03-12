@@ -26,8 +26,10 @@
 - **Hackathon update**, _Chairs_, onsite, 5 minutes
 
 ### Adopted Documents
+
 - **BBRv3**, [draft-ietf-ccwg-bbr](https://datatracker.ietf.org/doc/draft-ietf-ccwg-bbr/), _Neal Cardwell_, remote, 20 minutes
 - **Rate-limited senders**, [draft-ietf-ccwg-ratelimited-increase](https://datatracker.ietf.org/doc/draft-ietf-ccwg-ratelimited-increase/), _Mohit P. Tahiliani_, onsite, 10 minutes
 
 ### Other Proposals
 
+- **SEARCH**, [draft-chung-ccwg-search](https://datatracker.ietf.org/doc/draft-chung-ccwg-search/), _Mark Claypool_, remote, 20 minutes
