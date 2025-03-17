@@ -22,7 +22,6 @@
 ## Topics
 
 - **Chair slides**, _Chairs_, onsite, 10 minutes
-
 - **New Tools for Testing Congestion Control and Queue Management Algorithms**, _Rati Preethi S, Y Supradha Bhat, Shriya Anil, Anuhya Murki, Mahati A Kalale, Mohit P. Tahiliani_, onsite, 10 minutes
 
 ### Adopted Documents
