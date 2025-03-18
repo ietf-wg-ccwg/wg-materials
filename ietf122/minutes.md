@@ -1,8 +1,8 @@
 # CCWG, 18 March 2025, Bangkok, Thailand
 
-# Chair slides, Chairs, onsite, 10 minutes
+## Chair slides, Chairs, onsite, 10 minutes
 
-# New Tools for Testing Congestion Control and Queue Management Algorithms, Rati Preethi S, Y Supradha Bhat, Shriya Anil, Anuhya Murki, Mahati A Kalale, Mohit P. Tahiliani, onsite, 10 minutes
+## New Tools for Testing Congestion Control and Queue Management Algorithms, Rati Preethi S, Y Supradha Bhat, Shriya Anil, Anuhya Murki, Mahati A Kalale, Mohit P. Tahiliani, onsite, 10 minutes
 
 Lars: Are you going to support QUIC?
 
@@ -20,9 +20,9 @@ Mohit: Possible in ccperf, because ns-3 supports it. But ns-3 doesn't have SCReA
 
 Eric: this will really help with RFC9743 compliance.
 
-# BBRv3, draft-ietf-ccwg-bbr, Ian Swett, onsite, 20 minutes
+## BBRv3, draft-ietf-ccwg-bbr, Ian Swett, onsite, 20 minutes
 
-## Slide 5 (Goals of evolving the BBR draft text):
+### Slide 5 (Goals of evolving the BBR draft text):
 
 Martin Duke: Thanks Ian. I support the bar you're proposing. How close do you think you are to meeting this bar?
 
@@ -82,13 +82,13 @@ Neal: Eric + 1. We need community consensus on right level of Cubic-friendliness
 
 Eric: go through issues one-by-one.
 
-## Slide 6 (open PRs): no comments
+### Slide 6 (open PRs): no comments
 
-## Slide 7 (generalization to non-TCP): no comments
+### Slide 7 (generalization to non-TCP): no comments
 
 Mirja: we don't need full fairness -- can we deep dive into fairness in a future session? and document in the draft.
 
-## Slide 8 (Probe RTT interval 5s/10s):
+### Slide 8 (Probe RTT interval 5s/10s):
 
 Christian: 10 is better than 5, but 10 is still bad for real-time, but maybe we're punting RT.
 
@@ -96,23 +96,23 @@ Neal: I have ideas to reduce the 1RTT penalty. Would like research help. Maybe p
 
 Mirja: Multi decrease (LEDBAT++) is good for finding minRTT.
 
-## Slide 9: (rename inflight_hi/lo: No comments
+### Slide 9: (rename inflight_hi/lo: No comments
 
-## Slide 10: (inflight_shortterm needed?)
+### Slide 10: (inflight_shortterm needed?)
 
 Ian: It's complicated, maybe discuss offline.
 
-## Slide 11: ECN
+### Slide 11: ECN
 
 already discussed, probably punt to bis
 
-# Rate-limited senders, draft-ietf-ccwg-ratelimited-increase, Mohit P. Tahiliani, onsite, 10 minutes
+## Rate-limited senders, draft-ietf-ccwg-ratelimited-increase, Mohit P. Tahiliani, onsite, 10 minutes
 
 Ian: what about pacing limited?
 
 Gorry: We want to include this but need help.
 
-# SEARCH, draft-chung-ccwg-search, Mark Claypool, remote, 20 minutes
+## SEARCH, draft-chung-ccwg-search, Mark Claypool, remote, 20 minutes
 
 Mirja: Hystart Linux implementation has an important error -- there's a paper. Some of this is not that new/unique. It would be helpful to understand the key algorithm differences.
 
