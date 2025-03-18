@@ -33,6 +33,5 @@
 ### Other Proposals
 
 - **SEARCH**, [draft-chung-ccwg-search](https://datatracker.ietf.org/doc/draft-chung-ccwg-search/), _Mark Claypool_, remote, 20 minutes
-- **HPCC++: Enhanced High Precision Congestion Control**, [draft-miao-ccwg-hpcc](https://datatracker.ietf.org/doc/draft-miao-ccwg-hpcc/) and [draft-miao-ccwg-hpcc-info](https://datatracker.ietf.org/doc/draft-miao-ccwg-hpcc-info/), Rui Miao, 20 minutes
 
 ### Any Other Business (Balance of Time)
