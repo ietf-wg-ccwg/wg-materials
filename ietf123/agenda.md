@@ -32,3 +32,5 @@
 
 
 ### Any Other Business (Balance of Time)
+
+* **Insights into BBRv3’s Performance and Behavior by Experimental Evaluation**, [Academic paper](https://doc.tm.kit.edu/2025-bbrv3-eval-networking2025-authors-copy.pdf), _Roland Bless_, 15 minutes (if time permits)
