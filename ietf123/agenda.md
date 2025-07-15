@@ -30,6 +30,7 @@
 
 ### Other Proposals
 
+- **HPCC++**, [draft-miao-ccwg-hpcc](https://datatracker.ietf.org/doc/draft-miao-ccwg-hpcc/) and [draft-miao-ccwg-hpcc-info](https://datatracker.ietf.org/doc/draft-miao-ccwg-hpcc-info/), _TBD_, 20 minutes
 
 ### Any Other Business (Balance of Time)
 
