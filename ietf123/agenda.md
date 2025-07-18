@@ -26,7 +26,7 @@
 ### Adopted Documents
 
 - **Rate-limited senders**, [draft-ietf-ccwg-ratelimited-increase](https://datatracker.ietf.org/doc/draft-ietf-ccwg-ratelimited-increase/), _Michael Welzl_, onsite, 15 minutes
-- **BBRv3**, [draft-ietf-ccwg-bbr](https://datatracker.ietf.org/doc/draft-ietf-ccwg-bbr/), _TBD_
+- **BBRv3**, [draft-ietf-ccwg-bbr](https://datatracker.ietf.org/doc/draft-ietf-ccwg-bbr/), _Ian Swett_, onsite, 30 minutes
 
 ### Other Proposals
 
