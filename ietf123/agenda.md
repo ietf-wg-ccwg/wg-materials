@@ -2,7 +2,7 @@
 
 ## Time and Date
 
-* Monday July 21, 14:30 - 16-30 CEST ([See this time in your local timezone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CCWG+at+IETF+123&iso=20250721T1430&p1=141&ah=2))
+* Monday July 21, 14:30 - 16:30 CEST ([See this time in your local timezone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CCWG+at+IETF+123&iso=20250721T1430&p1=141&ah=2))
 * Location: [El Prado](https://datatracker.ietf.org/meeting/123/floor-plan?room=el-prado)
 * [IETF Agenda Link](https://datatracker.ietf.org/meeting/123/agenda/?show=ccwg)
 
