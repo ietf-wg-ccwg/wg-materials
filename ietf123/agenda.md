@@ -32,6 +32,8 @@
 
 - **HPCC++**, [draft-miao-ccwg-hpcc](https://datatracker.ietf.org/doc/draft-miao-ccwg-hpcc/) and [draft-miao-ccwg-hpcc-info](https://datatracker.ietf.org/doc/draft-miao-ccwg-hpcc-info/), _TBD_, 20 minutes
 
-### Any Other Business (Balance of Time)
+### As Time Permits
 
-* **Insights into BBRv3’s Performance and Behavior by Experimental Evaluation**, [Academic paper](https://doc.tm.kit.edu/2025-bbrv3-eval-networking2025-authors-copy.pdf), _Roland Bless_, 15 minutes (if time permits)
+- **Insights into BBRv3’s Performance and Behavior by Experimental Evaluation**, [Academic paper](https://doc.tm.kit.edu/2025-bbrv3-eval-networking2025-authors-copy.pdf), _Roland Bless_, 15 minutes (if time permits)
+
+- **L4S Impact on Measured Latency**, _Stuart Cheshire_, 10 minutes
