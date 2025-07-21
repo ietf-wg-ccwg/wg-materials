@@ -21,19 +21,16 @@
 
 ## Topics
 
-- **Chair slides**, _Chairs_, onsite, 10 minutes
+- **Chair Slides**, _Chairs_, onsite, 10 minutes
+
+- **Hackathon Updates**, _Mohit Tahiliani_, onsite, 10 minutes
 
 ### Adopted Documents
 
 - **Rate-limited senders**, [draft-ietf-ccwg-ratelimited-increase](https://datatracker.ietf.org/doc/draft-ietf-ccwg-ratelimited-increase/), _Michael Welzl_, onsite, 15 minutes
-- **BBRv3**, [draft-ietf-ccwg-bbr](https://datatracker.ietf.org/doc/draft-ietf-ccwg-bbr/), _Ian Swett_, onsite, 30 minutes
 
-### Other Proposals
-
-- **HPCC++**, [draft-miao-ccwg-hpcc](https://datatracker.ietf.org/doc/draft-miao-ccwg-hpcc/) and [draft-miao-ccwg-hpcc-info](https://datatracker.ietf.org/doc/draft-miao-ccwg-hpcc-info/), _TBD_, 20 minutes
+- **BBRv3**, [draft-ietf-ccwg-bbr](https://datatracker.ietf.org/doc/draft-ietf-ccwg-bbr/), _Ian Swett_, onsite, 45 minutes
 
 ### As Time Permits
 
-- **Insights into BBRv3’s Performance and Behavior by Experimental Evaluation**, [Academic paper](https://doc.tm.kit.edu/2025-bbrv3-eval-networking2025-authors-copy.pdf), _Roland Bless_, 15 minutes (if time permits)
-
-- **L4S Impact on Measured Latency**, _Stuart Cheshire_, 10 minutes
+- **Insights into BBRv3’s Performance and Behavior by Experimental Evaluation**, [Academic paper](https://doc.tm.kit.edu/2025-bbrv3-eval-networking2025-authors-copy.pdf), _Roland Bless_, 15 minutes
