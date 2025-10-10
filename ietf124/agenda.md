@@ -2,7 +2,7 @@
 
 ## Time and Date
 
-* Monday November 3, 09:30 - 11:30 CEST ([See this time in your local timezone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CCWG+at+IETF+124&iso=20251103T0930&p1=165&ah=2))
+* Monday November 3, 09:30 - 11:30 EST ([See this time in your local timezone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CCWG+at+IETF+124&iso=20251103T0930&p1=165&ah=2))
 * Location: [Viger Prado](https://datatracker.ietf.org/meeting/124/floor-plan?room=viger)
 * [IETF Agenda Link](https://datatracker.ietf.org/meeting/124/agenda/?show=ccwg)
 
