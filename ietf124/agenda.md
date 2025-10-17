@@ -32,3 +32,5 @@
 - **SCReAMv2**, [draft-johansson-ccwg-rfc8298bis-screamv2](https://datatracker.ietf.org/doc/draft-johansson-ccwg-rfc8298bis-screamv2/), _Ingemar Johansson_, remote, 15 minutes
 
 - **NDTC (Network Delivery Time Control)**, _Paul-Louis Ageneau_, onsite, 20 minutes
+
+- **SEARCH -- a New Slow Start Algorithm for TCP and QUIC**, [draft-chung-ccwg-search](https://datatracker.ietf.org/doc/draft-chung-ccwg-search/), TBD, 20 minutes
