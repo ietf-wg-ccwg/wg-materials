@@ -22,6 +22,7 @@
 ## Topics
 
 - **Chair Slides**, _Chairs_, onsite, 10 minutes
+- **Hackathon Updates**, TBD, onsite, 10 minutes
 
 ### Adopted Documents
 
@@ -29,8 +30,12 @@
 
 ### Other Proposals
 
+- Feedback request from MBONED: **Circuit Breaker Assisted Congestion Control**, [draft-ietf-mboned-cbacc](https://datatracker.ietf.org/doc/draft-ietf-mboned-cbacc/), _TBD_, 10 minutes
+
 - **SCReAMv2**, [draft-johansson-ccwg-rfc8298bis-screamv2](https://datatracker.ietf.org/doc/draft-johansson-ccwg-rfc8298bis-screamv2/), _Ingemar Johansson_, remote, 15 minutes
 
-- **NDTC (Network Delivery Time Control)**, _Paul-Louis Ageneau_, onsite, 20 minutes
+- **NDTC (Network Delivery Time Control)**, [draft-ageneau-ccwg-ndtc](https://datatracker.ietf.org/doc/draft-ageneau-ccwg-ndtc/), _Paul-Louis Ageneau_, onsite, 20 minutes
 
 - **SEARCH -- a New Slow Start Algorithm for TCP and QUIC**, [draft-chung-ccwg-search](https://datatracker.ietf.org/doc/draft-chung-ccwg-search/), TBD, 20 minutes
+
+- **Christian's Congestion Control Code (C4)**, [draft-huitema-ccwg-c4-design](https://datatracker.ietf.org/doc/draft-huitema-ccwg-c4-design/), [draft-huitema-ccwg-c4-spec](https://datatracker.ietf.org/doc/draft-huitema-ccwg-c4-spec), [draft-huitema-ccwg-c4-test](https://datatracker.ietf.org/doc/draft-huitema-ccwg-c4-test/), _Christian Huitema_, remote, 10 minutes
