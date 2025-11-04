@@ -39,5 +39,3 @@
 - **SEARCH -- a New Slow Start Algorithm for TCP and QUIC**, [draft-chung-ccwg-search](https://datatracker.ietf.org/doc/draft-chung-ccwg-search/), _Mark Claypool_, 20 minutes
 
 - **Christian's Congestion Control Code (C4)**, [draft-huitema-ccwg-c4-design](https://datatracker.ietf.org/doc/draft-huitema-ccwg-c4-design/), [draft-huitema-ccwg-c4-spec](https://datatracker.ietf.org/doc/draft-huitema-ccwg-c4-spec), [draft-huitema-ccwg-c4-test](https://datatracker.ietf.org/doc/draft-huitema-ccwg-c4-test/), _Christian Huitema_, remote, 10 minutes
-
-- **HPCC++: Enhanced High Precision Congestion Control**, [draft-miao-ccwg-hpcc](https://datatracker.ietf.org/doc/draft-miao-ccwg-hpcc/) and [draft-miao-ccwg-hpcc-info](https://datatracker.ietf.org/doc/draft-miao-ccwg-hpcc-info/), _Rui Miao_, 10 minutes
