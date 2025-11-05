@@ -1,5 +1,7 @@
 # CCWG Meeting, IETF 124, Montreal. 3 November 2025 9:30
 
+Note takers: _Stuart Cheshire, Martin Duke_
+
 ## Hackathon Update: "Testing Congestion Control and Queue Management Mechanisms"
 
 _Vishal Kamath, Hemang J. Jamadagni, Tanay Praveen Shekokar_, [slides](https://datatracker.ietf.org/meeting/124/materials/slides-124-ccwg-hackathon-updates-00)
