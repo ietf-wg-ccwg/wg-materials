@@ -21,26 +21,26 @@
 
 ## Topics
 
-- **Chair Slides**, _Chairs_, onsite, 10 minutes
+- **Chair Slides**, _Chairs_, 10 minutes
 - **Hackathon Updates**, 10 minutes
 
 ### Adopted Documents
 
 - [draft-ietf-ccwg-ratelimited-increase](https://datatracker.ietf.org/doc/draft-ietf-ccwg-ratelimited-increase/)
   post-WGLC edits
-- **BBRv3**, [draft-ietf-ccwg-bbr](https://datatracker.ietf.org/doc/draft-ietf-ccwg-bbr/), _Ian Swett_, onsite, 20 minutes
+- **BBRv3**, [draft-ietf-ccwg-bbr](https://datatracker.ietf.org/doc/draft-ietf-ccwg-bbr/), _Ian Swett_, 20 minutes
 
 ### Other Proposals
 
 - **SCReAMv2**,
   [draft-johansson-ccwg-rfc8298bis-screamv2](https://datatracker.ietf.org/doc/draft-johansson-ccwg-rfc8298bis-screamv2/),
-  _Ingemar Johansson_, remote, 15 minutes
+  _Ingemar Johansson_, 15 minutes
 
 - **Rapid Startup of Congestion Control**,
   [draft-kazuho-ccwg-rapid-start](https://datatracker.ietf.org/doc/draft-kazuho-ccwg-rapid-start/),
-  _Kazuho Oku_, remote, 15 minutes
+  _Kazuho Oku_, 15 minutes
 
-- **C4**, [draft-huitema-ccwg-c4-design](https://datatracker.ietf.org/doc/draft-huitema-ccwg-c4-design/), [draft-huitema-ccwg-c4-spec](https://datatracker.ietf.org/doc/draft-huitema-ccwg-c4-spec), [draft-huitema-ccwg-c4-test](https://datatracker.ietf.org/doc/draft-huitema-ccwg-c4-test/), _Christian Huitema_, remote, 30 minutes
+- **C4**, [draft-huitema-ccwg-c4-design](https://datatracker.ietf.org/doc/draft-huitema-ccwg-c4-design/), [draft-huitema-ccwg-c4-spec](https://datatracker.ietf.org/doc/draft-huitema-ccwg-c4-spec), [draft-huitema-ccwg-c4-test](https://datatracker.ietf.org/doc/draft-huitema-ccwg-c4-test/), _Christian Huitema_, 30 minutes
 
 - **Analysis for the Adverse Effects of LEO Mobility on Internet Congestion Control**, [draft-lai-ccwg-lsncc](https://datatracker.ietf.org/doc/draft-lai-ccwg-lsncc/), _Zonglun Li_, 10 minutes
 
