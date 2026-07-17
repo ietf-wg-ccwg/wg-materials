@@ -29,7 +29,7 @@
 
 - **BBRv3**, [draft-ietf-ccwg-bbr](https://datatracker.ietf.org/doc/draft-ietf-ccwg-bbr/), _Ian Swett_, 15 minutes
 
-- **SCReAMv2**, [draft-johansson-ccwg-rfc8298bis-screamv2](https://datatracker.ietf.org/doc/draft-johansson-ccwg-rfc8298bis-screamv2/), _Magnus Westerlund_, 15 minutes
+- **SCReAMv2**, [draft-ietf-ccwg-rfc8298bis-screamv2](https://datatracker.ietf.org/doc/draft-ietf-ccwg-rfc8298bis-screamv2/), _Magnus Westerlund_, 15 minutes
 
 
 ### Other Proposals
