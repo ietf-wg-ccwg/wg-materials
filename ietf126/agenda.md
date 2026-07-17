@@ -27,7 +27,7 @@
 
 ### Adopted Documents
 
-- **BBRv3**, [draft-ietf-ccwg-bbr](https://datatracker.ietf.org/doc/draft-ietf-ccwg-bbr/), _TBD_, 15 minutes
+- **BBRv3**, [draft-ietf-ccwg-bbr](https://datatracker.ietf.org/doc/draft-ietf-ccwg-bbr/), _Ian Swett_, 15 minutes
 
 - **SCReAMv2**, [draft-johansson-ccwg-rfc8298bis-screamv2](https://datatracker.ietf.org/doc/draft-johansson-ccwg-rfc8298bis-screamv2/), _Magnus Westerlund_, 15 minutes
 
@@ -36,8 +36,7 @@
 
 * **SEARCH**, [draft-chung-ccwg-search](https://datatracker.ietf.org/doc/draft-chung-ccwg-search/) _Jae Chung_, 10 minutes
 
-- **QUIC slow start evaluation at Mozilla**: Traditional, HyStart++, SEARCH,
-  _Oskar Mansfeld_, 10 minutes
+- **QUIC slow start evaluation at Mozilla**: Traditional, HyStart++, SEARCH, _Oskar Mansfeld_, 10 minutes
 
 * **C4**, [draft-huitema-ccwg-c4-spec](https://datatracker.ietf.org/doc/draft-huitema-ccwg-c4-spec/), [draft-huitema-ccwg-c4-design](https://datatracker.ietf.org/doc/draft-huitema-ccwg-c4-design/), [draft-huitema-ccwg-c4-tests](https://datatracker.ietf.org/doc/draft-huitema-ccwg-c4-tests/), _Christian Huitema_, 10 minutes
 
