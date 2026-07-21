@@ -41,5 +41,3 @@
 * **C4**, [draft-huitema-ccwg-c4-spec](https://datatracker.ietf.org/doc/draft-huitema-ccwg-c4-spec/), [draft-huitema-ccwg-c4-design](https://datatracker.ietf.org/doc/draft-huitema-ccwg-c4-design/), [draft-huitema-ccwg-c4-test](https://datatracker.ietf.org/doc/draft-huitema-ccwg-c4-test/), _Christian Huitema_, 10 minutes
 
 * **Network Delivery Time Control**, [draft-ageneau-ccwg-ndtc](https://datatracker.ietf.org/doc/draft-ageneau-ccwg-ndtc/), _Paul-Louis Ageneau_, 5 minutes
-
-- Test
