@@ -1,0 +1,4 @@
+[submodule "lib"]
+	path = lib
+	url = git@github.com:ekinnear/wg-materials-template.git
+	branch = main
