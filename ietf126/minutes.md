@@ -15,11 +15,11 @@ Highlights:
 
 Raffaello Secchi (University of Aberdeen): How difficult is this to maintain?
 
-Mohit Tahiliani: We do not expect this to be difficult.
+Mohit Tahiliani: We do not expect this to be difficult. We should not need to change ns-3 unless picoquic changes its API signatures.
 
-Alessandro Ghedini (Cloudflare): How difficult is the integration?
+Alessandro Ghedini (Cloudflare): How difficult is it to integrate a new QUIC implementation into ns-3?
 
-Mohit Tahiliani: It should not be difficult, depending on the details of the QUIC implementation.
+Mohit Tahiliani: It should not be difficult, depending on the details of the QUIC implementation. After picoquic, we tried MSQUIC, which had challenges because it is multithreaded. You can just pass the data, no actual I/O or sending packets required.
 
 
 ## Hackathon Update — L4S Interop
@@ -53,9 +53,9 @@ Ian Swett: Yes, it is mandatory.
 
 Roland Bless (Karlsruhe Institute of Technology (KIT)): Is this already implemented?
 
-Ian Swett: Yes, implemented for TCP since 2019.
+Ian Swett: Yes, implemented in the open-source implementation for TCP since 2019.
 
-Alessandro Ghedini (Cloudflare): We have been implementing BBR for QUIC.
+Alessandro Ghedini (Cloudflare): We have been implementing BBR for QUIC and started to enable it for some of our production traffic. It is still Work In Progress.
 
 
 ## SCReAMv2, draft-ietf-ccwg-rfc8298bis-screamv2, Magnus Westerlund
@@ -68,11 +68,11 @@ Updates presented:
 - Optimized handling of reference window undershoot to prevent over-aggressive window reductions when the application bitrate drops.
 - Added link-layer loss robustness: window reduction on loss is ignored if the loss rate is below a 1% threshold and queue delay is low, preventing spurious drops on lossy links.
 
-Christian Huitema (Private Octopus Inc.): How much loss is due to sending too fast (queue overflow) compared to simple unexplained spurious loss? If we don't back off on every loss, several models will be inaccurate.
+Christian Huitema (Private Octopus Inc.): How much loss is due to sending too fast (queue overflow) compared to simple unexplained spurious loss? If we don't back off on every loss, several models and equations will be inaccurate.
 
-Mirja Kühlewind (Ericsson): This is only for non-ECN queues
+Mirja Kühlewind (Ericsson): To the L4S part - This is only for non-ECN or L4S-enabled queues. BBR also has a loss threshold.
 
-Martin Duke (Google): I wonder if the ECN marking is the problem.
+Martin Duke (Google): I wonder if the ECN marking is the problem, as these issues might be related to a lack of queueing delay increase.
 
 Neal Cardwell (Google): Rather than trying to design an algorithm specifically to handle traffic policers, it is better to make an algorithm that handles packet loss gracefully, which will also make it cope with traffic policers.
 
@@ -91,7 +91,17 @@ Updates presented:
 - Signal quality analysis: explained why SEARCH uses the normalized delivery-rate difference rather than RTT inflation as an exit signal — delivery-rate SNR increases prior to hitting the BDP and remains high, whereas RTT inflation is highly susceptible to noise.
 - Draining phase: introduced a gradual draining phase on slow start exit. Instead of immediately slashing the congestion window (which can disrupt fast retransmit), the sender slowly drains the excess queue by reducing the window by 1 packet for every 3 packets acknowledged.
 
-Ian Swett (Google): 
+Ian Swett (Google): On slide 4, the bottom left is min RTT and bottom right is normalized diff deviation from the expected bandwidth?
+
+Jae Chung: This is sent bytes one RTT ago and then later, how much was actually acked.
+
+Ian Swett: And after the cutted line is the point at which you should be exiting Slow Start?
+
+Jae Chung: Yes. The dotted line is a BDP.
+
+Ian Swett: What does the solid line drifting above the dashed line mean?
+
+Jae Chung: The quality is getting better. Sent bytes minus delivered bytes converged towards 0.5.
 
 Gorry Fairhurst (University of Aberdeen): What are you actually measuring here? What is the path?
 
@@ -115,6 +125,10 @@ Martin Duke: Do not focus too much on fast retransmit, now that we have things l
 
 Christian Huitema: I think the big problem addressed by SEARCH is the large discrepancy between Slow Start and Congestion Avoidance. Exiting Slow Start too soon is a problem because it then takes a long time to reach the right rate on high-BDP paths. The better solution is to fix this fundamental discrepancy, rather than focussing on tuning the algorithm for deciding when to switch from Slow Start to Congestion Avoidance.
 
+Poll 1 — "I have read a version of draft-chung-ccwg-search": Yes: 10, No: 41, No Opinion: 2 (Total: 86)
+
+Poll 2 — "I have implemented or am planning to implement a version of SEARCH": Yes: 5, No: 33, No Opinion: 6 (Total: 86)
+
 
 ## QUIC slow start evaluation at Mozilla: Traditional, HyStart++, SEARCH, Oskar Mansfeld
 
@@ -127,9 +141,11 @@ Results presented:
 - SEARCH showed a lower packet loss ratio at the 95th and 99th percentiles than HyStart++ and Classic, though throughput metrics were inconclusive.
 - In the lower percentiles, SEARCH frequently exited slow start at very low ssthresh values, suggesting possible premature exits under application-limited transmission patterns.
 
-Martin Duke: Does this mean that HyStart++ kicks in at a rate that is too low?
+Martin Duke: On Slide 10 - Does this mean that HyStart++ kicks in at a rate that is too low?
 
-Antonio Vicente (Cloudflare): Some of those results may be because of incorrect early exits.
+Oskar Mansfeld: We don't know exactly, but when it kicks in, it's during these higher percentiles where we see an actual different in ssthresh, and it is lower than what classic saw after reducing its congestion window.
+
+Antonio Vicente (Cloudflare): Some of those results may be because of incorrect early exits. Comparing against the distribution of final windows might be interesting.
 
 Matt Joras (Meta): Did you collect other browser metrics too? It is hard to draw conclusions from these metrics in isolation.
 
@@ -153,15 +169,6 @@ Updates presented:
 - Implemented an Initial Startup Pacing Floor of 1 Mbps to prevent flows from getting stuck on short-RTT paths.
 
 No time for discussion.
-
-
-## Session Polls
-
-Polls taken regarding draft-chung-ccwg-search:
-
-Poll 1 — "I have read a version of draft-chung-ccwg-search": Yes: 10, No: 41, No Opinion: 2 (Total: 86)
-
-Poll 2 — "I have implemented or am planning to implement a version of SEARCH": Yes: 5, No: 33, No Opinion: 6 (Total: 86)
 
 
 ## Next Steps
