@@ -125,9 +125,9 @@ Martin Duke: Do not focus too much on fast retransmit, now that we have things l
 
 Christian Huitema: I think the big problem addressed by SEARCH is the large discrepancy between Slow Start and Congestion Avoidance. Exiting Slow Start too soon is a problem because it then takes a long time to reach the right rate on high-BDP paths. The better solution is to fix this fundamental discrepancy, rather than focussing on tuning the algorithm for deciding when to switch from Slow Start to Congestion Avoidance.
 
-Poll 1 — "I have read a version of draft-chung-ccwg-search": Yes: 10, No: 41, No Opinion: 2 (Total: 86)
+Poll 1 — **"I have read a version of draft-chung-ccwg-search":** Yes: 10, No: 41, No Opinion: 2 (Total: 86)
 
-Poll 2 — "I have implemented or am planning to implement a version of SEARCH": Yes: 5, No: 33, No Opinion: 6 (Total: 86)
+Poll 2 — **"I have implemented or am planning to implement a version of SEARCH":** Yes: 5, No: 33, No Opinion: 6 (Total: 86)
 
 
 ## QUIC slow start evaluation at Mozilla: Traditional, HyStart++, SEARCH, Oskar Mansfeld
